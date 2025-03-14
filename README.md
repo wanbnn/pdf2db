@@ -42,7 +42,7 @@ pdf2db/
 Instale as dependências necessárias com o seguinte comando:
 
 ```bash
-pip install (...)
+pip install https://github.com/wanbnn/pdf2db/raw/refs/heads/main/dist/pdf2db-0.1.0-py3-none-any.whl
 ```
 
 ---
