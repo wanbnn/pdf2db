@@ -53,7 +53,7 @@ pip install https://github.com/wanbnn/pdf2db/raw/refs/heads/main/dist/pdf2db-0.1
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/pdf2db.git
+   git clone https://github.com/wanbnn/pdf2db.git
    cd pdf2db
    ```
 
